@@ -5,8 +5,7 @@
 I'm a Software Engineer based in Kenya with a passion for solving world problems through technology. I love working on backend systems but am also diving into frontend and mobile development.
 
 ## 🚀 About Me
-
-- 🌍 I'm from Kenya
+- Founder at Campoprime Labs
 - 🔭 I'm currently working on [[Campoprime](https://github.com/campoprime/campoprime)]
 - 🌱 I'm learning Rust, Flutter, Dart, and React Native
 - 💬 Ask me about backend development, scientific theories, AI, robotics, and automotives
