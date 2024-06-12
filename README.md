@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Austin King'ori!
 
-![Profile Banner](https://avatars.githubusercontent.com/u/57138005?s=400&u=72da58aef3a31c02ab78b83e7236cb5517dd5d3f&v=4)
-
 I'm a Software Engineer based in Kenya with a passion for solving world problems through technology. I love working on backend systems but am also diving into frontend and mobile development.
 
 ## 🚀 About Me
