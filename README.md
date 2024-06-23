@@ -53,6 +53,14 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AustinKingOry&theme=dracula)
 
+##  Most recently used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinKingOry&layout=compact&theme=radical)
+
+## 📈 Git activity graphs
+
+[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AustinKingOry&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 📫 Get in Touch
 
 - LinkedIn: [Austin Kings](https://www.linkedin.com/in/austin-kings)
