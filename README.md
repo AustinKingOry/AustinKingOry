@@ -5,9 +5,9 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 ## 🚀 About Me
 - Founder at Campoprime Labs
 - 🔭 I'm currently working on [[Campoprime](https://github.com/campoprime/campoprime)]
-- 🌱 I'm learning Rust, Flutter, Dart, and React Native
+- 🌱 I'm learning Go, Rust, Flutter, Dart, and React Native
 - 💬 Ask me about backend development, scientific theories, AI, robotics, and automotives
-- ⚡ Fun fact: I can talk about programming for hours!
+- ⚡ Fun fact: I can talk about automotives for hours!
 
 ## 🛠️ Tech Stack
 
@@ -20,6 +20,7 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
@@ -40,7 +41,7 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 
 ## 🧑‍💻 Current Interests
 
-- Improving my skills in Rust
+- Improving my skills in Go and Rust
 - Exploring Flutter and React Native for mobile development
 - Building scalable backend systems
 - Engaging with the tech startup ecosystem
