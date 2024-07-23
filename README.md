@@ -75,7 +75,7 @@ Here are a few projects I've worked on in the past:
 ### Project 1: [Hospillar](https://github.com/AustinKingOry/hospillar)
 ![Project Image](https://raw.githubusercontent.com/AustinKingOry/hospillar/main/static/img/logo.jpg)
 <br />
-A brief description of what this project is about and what technologies you used.Multipurpose hospital management system developed with Python Django. This system helps you make data-driven decisions and increase your efficiency at work using fast and secure mechanisms with real-time interactivity and projections.
+Multipurpose hospital management system developed with Python Django. This system helps you make data-driven decisions and increase your efficiency at work using fast and secure mechanisms with real-time interactivity and projections.
 
 ### Project 2: [Kejapair](https://github.com/AustinKingOry/kejapair)
 ![Project Image](https://yourimageurl.com/project2.png)
