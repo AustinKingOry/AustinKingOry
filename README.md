@@ -11,7 +11,7 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 
 ## 🛠️ Tech Stack
 
-- **Backend:** PHP, Django, SQL, Postgresql, Python, C, C++
+- **Backend:** PHP, Python Django, SQL, Postgresql, Python, C, Go, C++
 - **Frontend:** HTML, CSS, JavaScript,Jquery, React.js
 - **Mobile Development:** Learning Flutter and React Native
 
