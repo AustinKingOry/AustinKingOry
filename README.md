@@ -5,7 +5,7 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 ## 🚀 About Me
 - Founder at Campoprime Labs
 - 🔭 I'm currently working on [[Campoprime](https://github.com/campoprime/campoprime)]
-- 🌱 I'm learning Go, Rust, Flutter, Dart, and React Native
+- 🌱 I'm learning Go, Flutter, Dart, and React Native
 - 💬 Ask me about backend development, scientific theories, AI, robotics, and automotives
 - ⚡ Fun fact: I can talk about automotives for hours!
 
@@ -59,7 +59,7 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 
 ## 📈 Git activity graphs
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AustinKingOry&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Austin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AustinKingOry&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 📫 Get in Touch
