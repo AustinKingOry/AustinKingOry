@@ -40,7 +40,7 @@ I'm a Software Engineer based in Kenya with a passion for solving world problems
 
 ## 🧑‍💻 Current Interests
 
-- Improving my skills in Go and Rust
+- Improving my skills in Go and Frontend frameworks.
 - Exploring Flutter and React Native for mobile development
 - Building scalable backend systems
 - Engaging with the tech startup ecosystem
