@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Austin King'ori!
 
-I'm a Software Engineer based in Kenya with a passion for solving world problems through technology. I love working on backend systems but am also diving into frontend and mobile development.
+I'm a Software Engineer based in Kenya with a passion for solving world problems through technology. I love working on backend systems but I'm also diving into frontend and mobile development.
 
 ## 🚀 About Me
 - Founder at Campoprime Labs
