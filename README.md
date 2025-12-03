@@ -9,7 +9,7 @@ I'm a Software Engineer and a Tech Entrepreneur with a passion for tackling nich
 ## 🚀 About Me
 - Founder & CTO at Campoprime Labs
 - Shaping Africa's Future of Education at [Campoprime](https://campoprime.com)
-- Building an avenue for clarity for job seekers through [Kazikit](https://kazikit.vercel.app), a comprehensive career toolkit.
+- Building an avenue for clarity for job seekers through [Kazikit](https://kazikit.com), a comprehensive career toolkit.
 - Providing tech consultancy and software development solutions at Crust Technologies.
 - 🌱 I'm learning Go, Flutter, Dart, and React Native
 - 💬 Ask me about backend development, scientific theories, AI, robotics, and automotives
