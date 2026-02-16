@@ -2,6 +2,7 @@
 
 I'm a Software Engineer and a Tech Entrepreneur with a passion for tackling niche problems for Africa through technology. As a SWE, I love working on backend systems but I'm also diving into frontend and mobile development. And as an entrepreneur, I focus on:
 - Education Technology
+- Career Empowerment
 - Healthcare Technology
 - Sustainable Agriculture
 - Fintech
